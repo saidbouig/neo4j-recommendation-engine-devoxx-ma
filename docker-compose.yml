@@ -1,0 +1,15 @@
+version: "2.1"
+services:
+  neo4j:
+    image: neo4j:3.4.7
+    ports:
+    - "7474:7474"
+    - "7687:7687"
+    environment:
+      NEO4J_AUTH: "none"
+    volumes:
+    - ./neo4j/plugins:/var/lib/neo4j/plugins
+    - ./neo4j/import:/var/lib/neo4j/import
+    - ./neo4j/data:/var/lib/neo4j/data
+    - ./neo4j/conf:/var/lib/neo4j/conf
+    - ./neo4j/logs:/var/lib/neo4j/logs
