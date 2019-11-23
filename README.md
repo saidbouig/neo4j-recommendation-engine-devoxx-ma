@@ -1,4 +1,4 @@
-# Construire votre propre moteur de recommandation avec Neo4j
+# Build your own recommendation engine with Neo4j
 
 https://slides.com/saidbouig/neo4j-recommendation-engine-devoxxma#/
 
