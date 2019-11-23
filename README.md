@@ -4,8 +4,6 @@ https://slides.com/saidbouig/neo4j-recommendation-engine-devoxxma#/
 
 ## Clone project
 
-## Clone project
-
     git clone https://github.com/saidbouig/neo4j_recommendation_engine_devoxx
 
 ## Setup Python environment / install packages
