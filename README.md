@@ -1,5 +1,7 @@
 # Construire votre propre moteur de recommandation avec Neo4j
 
+https://slides.com/saidbouig/neo4j-recommendation-engine-devoxxma#/
+
 ## Clone project
 
 ## Clone project
