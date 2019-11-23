@@ -2,13 +2,15 @@
 
 ## Clone project
 
-    git clone <project_link>
+## Clone project
 
-## Setup Python environnement / install packages
+    git clone https://github.com/saidbouig/neo4j_recommendation_engine_devoxx
+
+## Setup Python environment / install packages
 
 you need Python and pip installed 
 
-    virualenv env
+    virtualenv env
     source ./env/bin/activate
     pip install -r requirements.txt
 
